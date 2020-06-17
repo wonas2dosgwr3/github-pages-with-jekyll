@@ -1,3 +1,3 @@
-# Welcome to my blog
+Measurevaluenotmoney
 
-I'm glad you are here. I plan to talk about ...
+Measure length, not inches. Measure weight, not ounces.
